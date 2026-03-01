@@ -1,25 +1,25 @@
 {
-    "description": "qr",
-    "main": "./Winsper_Tech.js",
-  "engines" : { 
-    "npm" : ">=9.7.2",
-    "node" : ">=20.0.0"
-    },
-    "scripts": {
+  "description": "qr",
+  "main": "./Winsper_Tech.js",
+  "engines": {
+    "npm": ">=9.7.2",
+    "node": ">=20.0.0"
+  },
+  "scripts": {
     "start": "node Winsper_Tech.js"
   },
   "author": "Winsper_Tech",
   "license": "MIT license",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.5.0",
+    "@whiskeysockets/baileys": "npm:gifted-baileys@latest,
     "maher-zubair-baileys": "^6.6.5",
-    "qrcode": "^1.5.3",
-    "awesome-phonenumber": "^2.64.0",
-    "pino": "^8.1.0",
-    "phone" : "3.1.30",
-    "body-parser": "^1.20.1",
+    "qrcode": "^1.5.4",
+    "awesome-phonenumber": "^7.8.0",
+    "pino": "^10.3.1",
+    "phone": "^3.1.71",
+    "body-parser": "^2.2.2",
     "pastebin-js": "^1.0.6",
-    "express": "^4.18.1",
+    "express": "^5.2.1",
     "path": "^0.12.7"
-   }
+  }
 }
