@@ -11,7 +11,7 @@
   "author": "Winsper_Tech",
   "license": "MIT license",
   "dependencies": {
-    "@whiskeysockets/baileys": "npm:gifted-baileys@latest,
+    "@whiskeysockets/baileys": "npm:gifted-baileys@latest",
     "maher-zubair-baileys": "^6.6.5",
     "qrcode": "^1.5.4",
     "awesome-phonenumber": "^7.8.0",
